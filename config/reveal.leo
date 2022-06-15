@@ -149,27 +149,16 @@ vertical: body pane on the botton</t>
 @tabwidth -4
 @others</t>
 <t tx="leo.20220314203825.13">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;h6&gt;w6&lt;/h6&gt;
     &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
+&lt;a href="https://40923226.github.io/cd2022/content/w6.html"target="_blank"&gt;建立blog 協同產品實習課&lt;/a&gt; 
     &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20220314203825.14">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20220314203825.14">&lt;section&gt;
+    &lt;h7&gt;w7&lt;/h7&gt;
+    &lt;p&gt;
+&lt;a href="https://40923226.github.io/cd2022/content/w7.html"target="_blank"&gt;設法以隨身程式系統編譯程式碼&lt;/a&gt; 
+    &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -610,15 +599,15 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20220314203825.8">&lt;section&gt;
     &lt;h2&gt;w2 學員倉儲網站&lt;/h2&gt;
     &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/W2.html"target="_blank"&gt;學員倉儲網站&lt;/a&gt; 
+&lt;a href="https://40923226.github.io/cd2022/content/w2.html"target="_blank"&gt;學員倉儲網站&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.9">&lt;section&gt;
-    &lt;h2&gt;w2 學員倉儲網站&lt;/h2&gt;
+    &lt;h3&gt;w3 &lt;/h3&gt;
     &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/W2.html"target="_blank"&gt;學員倉儲網站&lt;/a&gt; 
+&lt;a href="https://40923226.github.io/cd2022/content/w3.html"target="_blank"&gt;分組分配程式和零件&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
