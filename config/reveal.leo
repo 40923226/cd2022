@@ -162,130 +162,71 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20220314203825.15">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
+<t tx="leo.20220314203825.15">&lt;section&gt;
+    &lt;h8&gt;w8&lt;/h8&gt;
+    &lt;p&gt;
+&lt;a href="https://40923226.github.io/cd2022/content/w8.html"target="_blank"&gt;依照分配的程式繪製Uarm零件丟入coppeliesim&lt;/a&gt; 
+    &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20220314203825.16">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
+    &lt;h10&gt;w10&lt;/h10&gt;
     &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
+&lt;a href="https://40923226.github.io/cd2022/content/w10_block_ui.html https://40923226.github.io/cd2022/content/w10_nx_integ.html https://40923226.github.io/cd2022/content/w10%20ssh.html"target="_blank"&gt;將所給的wink加入註解並標註以下名稱&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
-<t tx="leo.20220314203825.17">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
+<t tx="leo.20220314203825.17">&lt;section&gt;
+    &lt;h11&gt;w11&lt;/h11&gt;
+    &lt;p&gt;
+&lt;a href="https://40923226.github.io/cd2022/content/w11.html"target="_blank"&gt;wink 影片解決可能產生的衝突&lt;/a&gt; 
+    &lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20220314203825.18">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
+<t tx="leo.20220314203825.18">&lt;section&gt;
+    &lt;h12&gt;w12&lt;/h12&gt;
+    &lt;p&gt;
+&lt;a href="https://40923226.github.io/cd2022/content/w12.html"target="_blank"&gt;將w8零件繪製完成後利用程式數據化零件&lt;/a&gt; 
+    &lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20220314203825.19">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
+<t tx="leo.20220314203825.19">&lt;section&gt;
+    &lt;h13&gt;w13&lt;/h13&gt;
+    &lt;p&gt;
+&lt;a href="https://40923226.github.io/cd2022/content/w13.html"target="_blank"&gt;利用Brython確認學員有無完成該週網頁及部分uarm零件工程圖 &lt;/a&gt; 
+    &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20220314203825.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
 &lt;/html&gt;</t>
 <t tx="leo.20220314203825.20">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
+    &lt;h14&gt;w14&lt;/h14&gt;
     &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
+&lt;a href="https://40923226.github.io/cd2022/content/w14.html"target="_blank"&gt;說明利用python編寫coppeliasim編寫MTB robot控制程式利用Lua引入suctionpad component 執行物件吸取與釋放&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
-<t tx="leo.20220314203825.21">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
+<t tx="leo.20220314203825.21">&lt;section&gt;
+    &lt;h15&gt;w15&lt;/h15&gt;
+    &lt;p&gt;
+&lt;a href="https://40923226.github.io/cd2022/content/w15.html"target="_blank"&gt;組立uarm機械手臂並在CoppeliaSim完成利用鍵盤動態模擬&lt;/a&gt; 
+    &lt;/p&gt;
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20220314203825.22">&lt;section&gt;
      @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20220314203825.23">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
+<t tx="leo.20220314203825.23">&lt;section&gt;
+    &lt;h16&gt;w16&lt;/h16&gt;
+    &lt;p&gt;
+&lt;a href="https://40923226.github.io/cd2022/content/w16.html"target="_blank"&gt;依老師題目所求組內討論並解答做成pdf&lt;/a&gt; 
+    &lt;/p&gt;
 &lt;/section&gt;
- </t>
+</t>
 <t tx="leo.20220314203825.24">&lt;section&gt;
     &lt;h2&gt;Fragment Styles&lt;/h2&gt;
     &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
@@ -597,8 +538,8 @@ console.log( '"customevent" has fired' );
 
 </t>
 <t tx="leo.20220314203825.8">&lt;section&gt;
-    &lt;h2&gt;w2 學員倉儲網站&lt;/h2&gt;
-    &lt;p&gt;
+    &lt;h2&gt;w2 &lt;/h2&gt;
+    &lt;p&gt;學員倉儲網站
 &lt;a href="https://40923226.github.io/cd2022/content/w2.html"target="_blank"&gt;學員倉儲網站&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
