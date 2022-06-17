@@ -19,6 +19,7 @@
 <v t="leo.20220314203825.5"><vh>reveal div</vh>
 <v t="leo.20220314203825.6"><vh>slides div</vh>
 <v t="leo.20220314203825.7"><vh>slide 1</vh></v>
+<v t="leo.20220314203825.25"><vh>slide 14</vh></v>
 <v t="leo.20220314203825.8"><vh>slide 2</vh></v>
 <v t="leo.20220314203825.9"><vh>slide3</vh></v>
 <v t="leo.20220314203825.13"><vh>slide 4</vh></v>
@@ -30,11 +31,7 @@
 <v t="leo.20220314203825.19"><vh>slide 10</vh></v>
 <v t="leo.20220314203825.20"><vh>slide 11</vh></v>
 <v t="leo.20220314203825.21"><vh>slide 12</vh></v>
-<v t="leo.20220314203825.22"><vh>slide 13</vh>
-<v t="leo.20220314203825.23"><vh>slide 13-1</vh></v>
-<v t="leo.20220314203825.24"><vh>slide 13-2</vh></v>
-</v>
-<v t="leo.20220314203825.25"><vh>slide 14</vh></v>
+<v t="leo.20220314203825.22"><vh>slide 13</vh></v>
 <v t="leo.20220314203825.26"><vh>slide 15</vh></v>
 <v t="leo.20220314203825.27"><vh>slide 16</vh>
 <v t="leo.20220314203825.28"><vh>slide 16-1</vh></v>
@@ -150,50 +147,50 @@ vertical: body pane on the botton</t>
 @others</t>
 <t tx="leo.20220314203825.13">&lt;section&gt;
     &lt;h6&gt;w6&lt;/h6&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w6.html"target="_blank"&gt;建立blog 協同產品實習課&lt;/a&gt; 
+    &lt;p&gt;建立blog 協同產品實習課
+&lt;a href="https://40923226.github.io/cd2022/content/w6.html"target="_blank"&gt;w6任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20220314203825.14">&lt;section&gt;
     &lt;h7&gt;w7&lt;/h7&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w7.html"target="_blank"&gt;設法以隨身程式系統編譯程式碼&lt;/a&gt; 
+    &lt;p&gt;設法以隨身程式系統編譯程式碼
+&lt;a href="https://40923226.github.io/cd2022/content/w7.html"target="_blank"&gt;w7任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.15">&lt;section&gt;
     &lt;h8&gt;w8&lt;/h8&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w8.html"target="_blank"&gt;依照分配的程式繪製Uarm零件丟入coppeliesim&lt;/a&gt; 
+    &lt;p&gt;依照分配的程式繪製Uarm零件丟入coppeliesim
+&lt;a href="https://40923226.github.io/cd2022/content/w8.html"target="_blank"&gt;w8任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.16">&lt;section&gt;
     &lt;h10&gt;w10&lt;/h10&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w10_block_ui.html https://40923226.github.io/cd2022/content/w10_nx_integ.html https://40923226.github.io/cd2022/content/w10%20ssh.html"target="_blank"&gt;將所給的wink加入註解並標註以下名稱&lt;/a&gt; 
+    &lt;p&gt;將所給的wink加入註解並標註以下名稱
+&lt;a href="https://40923226.github.io/cd2022/content/w10_block_ui.html"target="_blank"&gt;&lt;/a&gt;  、https://40923226.github.io/cd2022/content/w10_nx_integ.html"target="_blank"&gt;&lt;/a&gt;   、https://40923226.github.io/cd2022/content/w10%20ssh.html"target="_blank"&gt;&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.17">&lt;section&gt;
     &lt;h11&gt;w11&lt;/h11&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w11.html"target="_blank"&gt;wink 影片解決可能產生的衝突&lt;/a&gt; 
+    &lt;p&gt;wink 影片解決可能產生的衝突
+&lt;a href="https://40923226.github.io/cd2022/content/w11.html"target="_blank"&gt;w11任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.18">&lt;section&gt;
     &lt;h12&gt;w12&lt;/h12&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w12.html"target="_blank"&gt;將w8零件繪製完成後利用程式數據化零件&lt;/a&gt; 
+    &lt;p&gt;將w8零件繪製完成後利用程式數據化零件
+&lt;a href="https://40923226.github.io/cd2022/content/w12.html"target="_blank"&gt;w12任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.19">&lt;section&gt;
     &lt;h13&gt;w13&lt;/h13&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w13.html"target="_blank"&gt;利用Brython確認學員有無完成該週網頁及部分uarm零件工程圖 &lt;/a&gt; 
+    &lt;p&gt;利用Brython確認學員有無完成該週網頁及部分uarm零件工程圖 
+&lt;a href="https://40923226.github.io/cd2022/content/w13.html"target="_blank"&gt;w13任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
@@ -203,56 +200,28 @@ vertical: body pane on the botton</t>
 &lt;/html&gt;</t>
 <t tx="leo.20220314203825.20">&lt;section&gt;
     &lt;h14&gt;w14&lt;/h14&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w14.html"target="_blank"&gt;說明利用python編寫coppeliasim編寫MTB robot控制程式利用Lua引入suctionpad component 執行物件吸取與釋放&lt;/a&gt; 
+    &lt;p&gt;說明利用python編寫coppeliasim編寫MTB robot控制程式利用Lua引入suctionpad component 執行物件吸取與釋放
+&lt;a href="https://40923226.github.io/cd2022/content/w14.html"target="_blank"&gt;w14任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.21">&lt;section&gt;
     &lt;h15&gt;w15&lt;/h15&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w15.html"target="_blank"&gt;組立uarm機械手臂並在CoppeliaSim完成利用鍵盤動態模擬&lt;/a&gt; 
+    &lt;p&gt;組立uarm機械手臂並在CoppeliaSim完成利用鍵盤動態模擬
+&lt;a href="https://40923226.github.io/cd2022/content/w15.html"target="_blank"&gt;w15任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.22">&lt;section&gt;
-     @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20220314203825.23">&lt;section&gt;
     &lt;h16&gt;w16&lt;/h16&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w16.html"target="_blank"&gt;依老師題目所求組內討論並解答做成pdf&lt;/a&gt; 
+    &lt;p&gt;依老師題目所求組內討論並解答做成pdf
+&lt;a href="https://40923226.github.io/cd2022/content/w16.html"target="_blank"&gt;w16任務&lt;/a&gt; 
     &lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20220314203825.24">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20220314203825.25">&lt;section id="transitions"&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
-    &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
+<t tx="leo.20220314203825.25">&lt;section&gt;
+    &lt;h1&gt;w1 &lt;/h1&gt;
+    &lt;p&gt;建立倉儲
+&lt;a href="https://github.com/40923226/cd2022"target="_blank"&gt;w1 github cd2022&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -540,15 +509,15 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20220314203825.8">&lt;section&gt;
     &lt;h2&gt;w2 &lt;/h2&gt;
     &lt;p&gt;學員倉儲網站
-&lt;a href="https://40923226.github.io/cd2022/content/w2.html"target="_blank"&gt;學員倉儲網站&lt;/a&gt; 
+&lt;a href="https://40923226.github.io/cd2022/content/w2.html"target="_blank"&gt;w2任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20220314203825.9">&lt;section&gt;
     &lt;h3&gt;w3 &lt;/h3&gt;
-    &lt;p&gt;
-&lt;a href="https://40923226.github.io/cd2022/content/w3.html"target="_blank"&gt;分組分配程式和零件&lt;/a&gt; 
+    &lt;p&gt;分組分配程式和零件
+&lt;a href="https://40923226.github.io/cd2022/content/w3.html"target="_blank"&gt;w3任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
