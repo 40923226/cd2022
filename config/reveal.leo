@@ -169,14 +169,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220314203825.16">&lt;section&gt;
     &lt;h10&gt;w10&lt;/h10&gt;
     &lt;p&gt;將所給的wink加入註解並標註以下名稱
-&lt;a href="https://40923226.github.io/cd2022/content/w10_block_ui.html"target="_blank"&gt;&lt;/a&gt;  、https://40923226.github.io/cd2022/content/w10_nx_integ.html"target="_blank"&gt;&lt;/a&gt;   、https://40923226.github.io/cd2022/content/w10%20ssh.html"target="_blank"&gt;&lt;/a&gt; 
+&lt;a href="https://40923226.github.io/cd2022/content/w10_block_ui.html&gt;&lt;/a&gt;  、https://40923226.github.io/cd2022/content/w10_nx_integ.html&gt;&lt;/a&gt;   、https://40923226.github.io/cd2022/content/w10%20ssh.html&gt;&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20220314203825.17">&lt;section&gt;
     &lt;h11&gt;w11&lt;/h11&gt;
     &lt;p&gt;wink 影片解決可能產生的衝突
-&lt;a href="https://40923226.github.io/cd2022/content/w11.html"target="_blank"&gt;w11任務&lt;/a&gt; 
+&lt;a href="https://40923226.github.io/cd2022/content/ssh%20wink.html"target="_blank"&gt;w11任務&lt;/a&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
