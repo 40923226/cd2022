@@ -168,7 +168,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20220314203825.16">&lt;section&gt;
     &lt;h10&gt;w10&lt;/h10&gt;
-    &lt;p&gt;將所給的wink加入註解並標註以下名稱&lt;a href="https://40923226.github.io/cd2022/content/w10_block_ui.html"target="_blank"&gt;w10-1任務&lt;/a&gt; 、&lt;a href="https://40923226.github.io/cd2022/content/w10_nx_integ.html"target="_blank"&gt;w10-2任務&lt;/a&gt; 、&lt;a href="https://40923226.github.io/cd2022/content/w10%20ssh.html"target="_blank"&gt;w10-3任務&lt;/a&gt; 
+    &lt;p&gt;將所給的wink加入註解並標註以下名稱&lt;a href="https://40923226.github.io/cd2022/content/w10_block_ui.html"target="_blank"&gt;w10_block_ui&lt;/a&gt; 、&lt;a href="https://40923226.github.io/cd2022/content/w10_nx_integ.html"target="_blank"&gt;w10_nx_integ&lt;/a&gt; 、&lt;a href="https://40923226.github.io/cd2022/content/w10%20ssh.html"target="_blank"&gt;w10 ssh&lt;/a&gt; 
  
     &lt;/p&gt;
 &lt;/section&gt;
@@ -226,25 +226,12 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20220314203825.26">&lt;section id="themes"&gt;
-    &lt;h2&gt;Themes&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js comes with a few themes built in: &lt;br&gt;
-        &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
+<t tx="leo.20220314203825.26">&lt;section&gt;
+    &lt;h17&gt;w17&lt;/h17&gt;
+    &lt;p&gt;根據老師題目要求思考如何完成Tic-Tae-Toe問題
+&lt;a href="https://40923226.github.io/cd2022/content/w17.html"target="_blank"&gt;w17任務&lt;/a&gt; 
     &lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20220314203825.27">&lt;section&gt;
     @others
 &lt;/section&gt;
