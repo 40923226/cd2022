@@ -2,7 +2,7 @@
         <head>
         <title>cmsimde_site</title>
         <meta charset="utf-8">
-<meta property="head" content="H2">
+<meta property="head" content="H1">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
         <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
@@ -139,9 +139,8 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">online << <a href='online.html'>Previous</a> <a href='w14.html'>Next</a> >> w14<br /><h1>w13</h1>
-<p>part2.(<span>STL 格式轉入 CoppeliaSim)</span></p>
-<p><span></span></p>
+    <div id="tipue_search_content">w17 << <a href='w17.html'>Previous</a> <br /><h1>期末考週</h1>
+<p>------------</p>
 <script>
 var winkVideoData = {
 dataVersion: 1,
@@ -153,74 +152,18 @@ frameStops: {
 };
 </script>
 <div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="630" width="1008">
-<source src="https://40923226.github.io/cd2022/downloads/10.mp4" type="video/mp4"/></video>
+<source src="./../downloads/18.mp4" type="video/mp4"/></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
 <div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
 <div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<p>part3.<span>(說明如何在線上讀取各學員每週任務進度)</span></p>
-<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">from browser import html
-from browser import document
-
-brython_div = document["brython_div"]
-
-# 根據 href 與 content 將 html 元件中的 anchor 插入頁面
-def makeLink(href, content):
-    brython_div &lt;= html.A(content, href=href)
-    brython_div &lt;= html.BR()
-
-# 將 2b 學號、帳號與組別的網址設為 studlist_url
-aorb = "2b"
-page_title = "online"
-studlist_url = "https://mde.tw/studlist/2022spring/" + aorb + ".txt"
-# 利用 open() 與 read() 讀出資料
-data = open(studlist_url).read()
-# 若要 debug 可以查驗所取得的 data 內容
-#print(data)
-# 利用 split() 函式, 使用每一行的跳行符號\n切割所讀回的資料
-# 切割後的 stud 為數列 (list)
-stud = data.split("\n")
-# 列出去頭(標題)與去尾(空白行)的數列查驗
-#print(stud[1:-1])
-count = 0
-# blog name w6_studno.html
-member = []
-# 利用 for 迴圈逐一取出數列中的元素(每位學員的資料)
-for i in stud[1:-1]:
-    #print(i)
-    studno, github, grp = i.split("\t")
-    #print(studno, github, grp)
-    #print(type(grp))
-    stud_url = "https://" + github + ".github.io/cd2022/content/" + page_title + ".html"
-    url_title = studno + " " + page_title
-    try:
-        blog_content = open(stud_url).read()
-        makeLink(stud_url, url_title)
-    except:
-        #print(studno + " 尚無 w6 blog!")
-        pass
-    #makeLink(stud_url, url_title)
-    # 因為有人沒有組別或沒有登記 github 帳號
-    if grp != "" and github != "":
-        if grp == "1":
-            #print(studno)
-            count += 1
-    else:
-        print("尚未分組者:", studno)
-        
-print("done")</pre>
-<p></p>
-<p>1.將page title= "想要查驗的項目"</p>
-<p></p>
-<p>部分工程圖</p>
-<p><img alt="" height="630" src="./../images/部分工程圖-1.png" width="995"/></p>
-<p><img alt="" height="630" src="./../images/部分工程圖.png" width="866"/></p><br />online << <a href='online.html'>Previous</a> <a href='w14.html'>Next</a> >> w14</div>
+<p>-------------</p>
+<p>我所用得NX版本是NX12，我覺得這兩個題目是要顯現出我們這學期對NX是否熟悉，題目也不會太難，還蠻適中，在過程中很慶幸之前都有在畫，畫完後非常的有成就感，之前用的時候都要畫超久，現在就是咻咻兩下就快速完成。</p>
+<div class="winkVideoControlBarProgressRightClass"><span></span></div></div><br />w17 << <a href='w17.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
